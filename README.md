@@ -1,4 +1,5 @@
 Data Visualization Capstone Project
+
 In this capstone project, I have applied the skills and knowledge acquired throughout the bootcamp to analyze a dataset of my choice and create informative data visualizations. The objective was to effectively communicate findings through data exploration and visualization techniques. The project entails the following key steps:
 
 Dataset Selection
